@@ -10,3 +10,5 @@ People call me MA. I'm
 - 📫 Reach me at ma@grandeur.dev.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm a foodie and I sing when I'm alone, sometimes not just when I'm alone :P.
+
+more [here](https://abdullahmahboob.github.io).
